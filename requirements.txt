@@ -1,0 +1,8 @@
+streamlit
+openai>=1.0.0
+pdfplumber
+scikit-learn
+matplotlib
+streamlit-webrtc
+whisper
+numpy
